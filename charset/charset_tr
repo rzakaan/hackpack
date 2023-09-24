@@ -1,0 +1,11 @@
+
+num                             = [0123456789]
+lalpha                          = [abcdefgğhıijklmnoöprsştuüvyzxqw]
+lalphanum                       = [0123456789abcdefgğhıijklmnoöprsştuüvyzxqw]
+
+ualpha                          = [ABCDEFGĞHIİJKLMNOÖPRSŞTUÜVYZXQW]
+ualphanum                       = [0123456789ABCDEFGĞHIİJKLMNOÖPRSŞTUÜVYZXQW]
+
+alpha                           = [abcdefgğhıijklmnoöprsştuüvyzxqwABCDEFGĞHIİJKLMNOÖPRSŞTUÜVYZXQW]
+alphanum                        = [0123456789abcdefgğhıijklmnoöprsştuüvyzxqwABCDEFGĞHIİJKLMNOÖPRSŞTUÜVYZXQW]
+

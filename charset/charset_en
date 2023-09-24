@@ -1,0 +1,5 @@
+
+numeric                         = [0123456789]
+lalpha                          = [abcdefghijklmnoprstuvyzxqw]
+ualpha                          = [ABCDEFGHIJKLMNOPRSTUVYZXQW]
+alpha                           = [abcdefghijklmnoprstuvyzxqwABCDEFGHIJKLMNOPRSTUVYZXQW]

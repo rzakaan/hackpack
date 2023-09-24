@@ -1,0 +1,15 @@
+## supported artifacts
+- cookies + DOM Storage
+- downloads
+- web forms (search, emails, comments)
+- historial
+- bookmarks
+- cache html5 visulization / extraction
+- visited sites
+- addons / extension
+- browse saved password
+- ssl certificate 
+- session data webs url
+
+## usage
+dumpzilla '/home/$USER/.mozilla/firefox/xxxx.default' --Watch
