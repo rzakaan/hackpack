@@ -1,11 +1,24 @@
 # bettercap 
 swiss army knife for network attacks and monitoring
 
-## scan network
 ```
-net.show
+betttercap -iface wlan0
+```
+
+## detect host and sniff
+this will send various probe packages each ip order
+
+```
 net.probe on
+net.show on
 net.sniff on
+```
+
+## password sniffing
+```
+set net.sniff.local true
+set net.sniff.regxp '*password=.+'
+set net.sniff.verbose 'true'
 ```
 
 ## set ticker
